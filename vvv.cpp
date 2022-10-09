@@ -8,9 +8,9 @@ int main()
     cin>>a>>b>>n;
     ll q[n],w[n];
     for(ll i=0;i<n;i++)
-    {
+
         cin>>q[i]>>w[i];
-    }
+
     ll m=1;
     ll index=0;
     bool f=0;
