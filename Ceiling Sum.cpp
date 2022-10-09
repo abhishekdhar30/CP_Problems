@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std ;
-
+#noting
 #define  ff      first 
 #define  ss      second
 #define  ull     unsigned long long 
