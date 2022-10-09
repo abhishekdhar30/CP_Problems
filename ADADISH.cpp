@@ -1,5 +1,8 @@
 #include"bits/stdc++.h"
 using namespace std ;
+void gandaCode(int n) {
+    return;
+}
 
 int main(){
     int t;
