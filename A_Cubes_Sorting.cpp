@@ -42,6 +42,6 @@ int main()
       {
           cout<<"YES"<<endl;
       }
-      
+      // addition done
     }
 }
