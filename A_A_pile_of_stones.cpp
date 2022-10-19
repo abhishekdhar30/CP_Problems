@@ -1,9 +1,9 @@
 #include<bits/stdc++.h>
-#include<iostream>
+
 #define MAX 1000000007
 using namespace std;
 #define ll long long
-//Aryan
+
 int main()
 {
     ll n;
@@ -11,6 +11,7 @@ int main()
     string s;
     cin>>s;
     ll count=0;
+    ll aaaaaaaaaaaaaaaa=0;
     for(ll i=0;i<s.length();i++)
     {
         if(s[i]=='-'&&count!=0)
